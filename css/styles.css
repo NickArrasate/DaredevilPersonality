@@ -1,0 +1,36 @@
+.radio {
+  margin-top: 25px;
+}
+
+form {
+  margin-left: 30px;
+}
+
+.pic {
+  display: none;
+
+}
+
+img {
+  max-width: 60%;
+}
+
+#submitbtn {
+  
+}
+
+.showme {
+  display: block;
+}
+.head {
+  padding-top: 1em;
+  top: 0;
+  background-color: #bf3728;
+  text-align: center;
+  top: 0;
+  height: 25em;
+  background-image: url("../img/glyph.jpg");
+  image-orientation: left;
+  background-repeat: no-repeat;
+  background-position: center;
+}
